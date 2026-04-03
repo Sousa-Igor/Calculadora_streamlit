@@ -1,0 +1,1 @@
+App de calculadora realizado para treinar streamlit.
